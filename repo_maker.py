@@ -7,7 +7,7 @@ script_credits = 'All code copyleft (GNU GPL v3) by Unobtanium @ XBMC Forums'
 Please bump the version number one decimal point and add your name to credits when making changes.
 
 This is an:
-- addons.xml generator
+- addons.xml generatorzzzz
 - addons.xml.md5 generator
 - optional auto-compressor (including handling of icons, fanart and changelog)
 
